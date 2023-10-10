@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/vite-v4.2.1-blueviolet.svg" alt="element-ui">
   </a>
   
-  <a href="https://github.com/Irontiger0330/vuetify3-admin-template-zh/blob/main/LICENSE">
+  <a href="https://github.com/Irontiger0330/vuetify3-lux-admin-template-zh/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="license">
   </a>
 </p>
@@ -28,7 +28,7 @@
 <br>
 
 <p align='center'>
-<b>English</b> | <a href="https://github.com/Irontiger0330/vuetify3-lux-admin-template-zh/blob/main/README.zh-CN.md">简体中文</a>| <a href="https://github.com/Irontiger0330/vuetify3-admin-template-zh/blob/main/README.jp.md">日本語</a>
+<b>English</b> | <a href="https://github.com/Irontiger0330/vuetify3-lux-admin-template-zh/blob/main/README.zh-CN.md">简体中文</a>| <a href="https://github.com/Irontiger0330/vuetify3-lux-admin-template-zh/blob/main/README.jp.md">日本語</a>
 </p>
 
 ## 📖Introduction
